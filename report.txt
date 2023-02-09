@@ -1,0 +1,2 @@
+name=cpu width=4096 height=4096 iterations=5000 threads=8 min=8.06 max=8.06 mean=8.06 avg=8.06 stdev=0.00
+name=cpu width=1024 height=1024 iterations=5000 threads=50 min=2.99 max=3.03 mean=3.00 avg=3.00 stdev=0.01
